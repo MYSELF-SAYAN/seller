@@ -9,4 +9,4 @@ Here is the live link:-https://651bbfdfc8c6ed39935d7d83--effervescent-hamster-a4
 Framework: React
 Styling: Tailwind CSS
 Routing:React-router-dom v6
-Here is the live link:-https://capable-biscuit-39f190.netlify.app
+Here is the live-link:-https://capable-biscuit-39f190.netlify.app
